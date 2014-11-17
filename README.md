@@ -1,4 +1,4 @@
 helloworld
 ==========
 
-first repo
+Simplest repo possible to learn the ropes.
